@@ -24,16 +24,18 @@ Investigating if it suits your personnel financial strategy?
 
 * Name of company
 
-   Investar
+   Protech group ASX Ptg
 
 * When was the company incorporated?
 
-   Founded in 2006, originally a digital real estate magazine publisher branded as real estate investor magazine. 
+  Protech group dates back to 1997 when the revolutionary software became available 
 
 * Who are the founders of the company?
-Protech group ? Asx PTG
+
+Mydesktop was cofounded and developed by Adam Campbell and Scott Wolff
 
 * How did the idea for the company (or project) come about?
+
 Through the wide investor audience from the online magazine. A lack in online software to manage decisions to achieve investing goals
 
 
