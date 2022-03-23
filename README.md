@@ -1,34 +1,10 @@
-# Investar
+# In The Begining
 
-Supporting myself through an owner occupied mortgage at age 22 years young, I can relate to those who made emotional desciosions rather than strategic ones.
+Proptech like Fintech is relatively new, despite being intergrated in the Austalian real estate market for over 20 year, back in 1997 the revolutionary Customer Relationship Mangement (CRM) software *MyDesktop* was launched by Adam Campbell & Scott Wolff. This was the begining of Proptech Group (PTG.ASX), as the name suggest it is a group of property technology companies in one eco-system. 
 
+*MyDesktop* was acquistioned by Domain Holdings Austalia Limited (ASX:DHG) in 2010, In the same year "Real Estate Investar luanches property investment platform, and Rentfind Inspector launched"[^1]. These three brands later listed under Real Estate Investar (ASX:REV) in 2015. 
+Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD (ASX:RECRM) 2nd generation CRM in 2017. In 2020 REV merge with RECRM formed Proptech Group (ASX:PTG)[^2]
 
-Iis a powerful real estaste analysing website, it offers a wide range of filtration search to suit each individual financial strategy. It caters from first home buyers thorugh 
- 
-
-
-Have you ever struggled to find the right real estate to invest in?
-Consumed precious hours cross checking information across multiple websites? 
-Investigating if it suits your personnel financial strategy?
-
-# Investar 
-
-[key](https://www.google.com/)
-
-#### Case Study Template
-
-
-# TITLE
-
-## Overview and Origin
-
-<span style="color: grey"> * Name of company
-
-   Proptech group ASX Ptg
-
-<span style="color: grey">* When was the company incorporated?
-
-  Protech group dates back to 1997 when the revolutionary CRM software 'MyDesktop' became available 
 
 <span style="color: grey"> Who are the founders of the company?
 
@@ -56,9 +32,9 @@ PTG charges feesSince the first Customer Relationship management (CRM) software 
 
 PTG has always been a subscription-based software operating service. These fees are brokendown to the following  
 
-| Revenue Source | B2B/REal eState Agency Products| B2C/ Property Tools |
-|----------------|--------------------------------|---------------------|
-| Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) |calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
+| Revenue Source                                                  | B2B/REal eState Agency Products                                                                                                                                                                                                                                                         | B2C/ Property Tools                                                                                                   |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) | calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
 One off fees | Charged to agencies for training, consulting and some customised development of the platform, usually at the franchise group level | |
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
@@ -103,10 +79,10 @@ As the revenue is generated per agency we can simply look at the total number of
 UK | 25,000 | 21,200 | $185 million in 2019
 
 
-| Brand | SaaS | Offices Served (Estimate) | Comments|
-|-------|-------|----------------------------|----------|
-|MyDesktop/Vault Group | CRM & PM | 2,800 AU, 380 NZ, 251 UK | ANZ 41,000 individual users|
-|AgentBOx | CRM & PM |2,000 | Funded $21.8 million by AcelKKR in 2018 |
+| Brand                 | SaaS     | Offices Served (Estimate) | Comments                                |
+|-----------------------|----------|---------------------------|-----------------------------------------|
+| MyDesktop/Vault Group | CRM & PM | 2,800 AU, 380 NZ, 251 UK  | ANZ 41,000 individual users             |
+| AgentBOx              | CRM & PM | 2,000                     | Funded $21.8 million by AcelKKR in 2018 |
 Box + Dice | CRM | 1,000 | ANZ 14,000 active users |
 Console | PM | 3,000 |$20 million revenue in 2019 |
 REI Master | PM | 1,300|
@@ -143,9 +119,6 @@ The co-developers of *MyDesktop* and *VaultRE* were able to seamlessly integrate
 
 ## Landscape:
 
-<span style="color: grey">* What domain of the financial industry is the company in?
-
-Mortgage/Real Estate
 
 <span style="color: grey">* What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -236,6 +209,7 @@ PTG has esatblished a steady 40% of the Australian New Zealand CRM Makret share 
 
 In United Kingdom there is approximate 21,500 offices that could utilise PTG's existing CRM and PM software. PTG could like previously target marketing campign to large real estate franchise, thereby simultaneouly signing large numbers of agencies. 
 
+
 As of 2021 there are 154,431 using the basic free property investment platform, out of this only 1,037 are paying cutomers. These are strong leads that have already trusted PTG enough to use its software. Inorder to capitalise on this survey could be preofromed of non paying customers in exchange for temporary access to or unlock one or two premium services. THis information can then be analysed to perfom target adds or innovate new services, inorder to gain more paying customers.
 
 The above recommendations are inline with existing proven streams of revenue, being Average REvenue Per Agency (ARPA). In 2019 ARPA in ANZ was $197, by September 2021 ARPA increase dto $236. This was inline with the merger of Investar and VaultRE, integration egalysoftware and rello along with hundreads of add-ons by PTG or third party developers. This in all contributed to clients fredom when customizing the CRM for their agency.   
@@ -246,7 +220,9 @@ The above recommendations are inline with existing proven streams of revenue, be
 <span style="color: grey">* What technologies would this additional product or service utilize?
 
 *<span style="color: grey"> Why are these technologies appropriate for your solution?
-```
+
+
+
 
 ### 4. Write the case study
 
@@ -257,3 +233,6 @@ Be sure to cite your sources in an addendum at the end of the report. List all w
 ### 5. Upload your case study to your git repository
 
 You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+
+
+[^1]: 
