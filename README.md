@@ -58,7 +58,7 @@ PTG has always been a subscription-based software operating service. These fees 
 
 | Revenue Source | B2B/REal eState Agency Products| B2C/ Property Tools |
 |----------------|--------------------------------|---------------------|
-| Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) |Monthly fee to use the Platform. Rate charged per month depends on number of uses/offices, featuures used and length of contract period. Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
+| Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) |calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
 One off fees | Charged to agencies for training, consulting and some customised development of the platform, usually at the franchise group level | |
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
@@ -175,10 +175,9 @@ https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residentia
 - Portal pushing, through API integration, a listing just needs to be uploaded onto the system inorder to synchronise across all linked real estate portals  
 - Single data entry, simply enter information about clients into CRM once, automised to enter relevant information accross integrated third party add ons through open API
 
-The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, the best in AI, open API-first. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
+The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, functioality, the best in AI, open API-first, algorithms, data infrastructure, code base, online processes and other information technology. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
 
-
-
+https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf pg84
 
 
 <span style="color: grey">* What are the other major companies in this domain?
@@ -187,9 +186,20 @@ Agentbox holds the second largest CRM market share in Australia, based off the t
 
 https://agentbox.com.au/agentbox-announces-aus-nz-proptech-acquisition-strategy/
 
-Rex is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece. 
+Rex is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece.
 
-in 1992 the first property management software *Console* was realsed in Australia, over 28 years of market experience 
+https://www.rexsoftware.com/articles/introducing-rex-zapier-integration-2
+
+MRI software founded in 1971, based in CLeveland, Ohio, has strived to creat flexible game-changing solutions. This global real estate technology expanded to Australia and New Zealand in 1995. In 2014 Commercial Property Excutive (CPR) awarded *Box + DiceMRI Software* two catagories within the event, Australias Tops in Technology Awards, specific qualities:
+- "Best Features/ Functionality"
+- Greatest Ease of Use/Implementation
+- Best Pricing/Value
+
+https://www.mrisoftware.com/au/about/
+
+In 2021 *MRI Software* invested further on our shores by aquistioing Palace, Whoson LOcation, and Box + Dice. The Austrlaian based CRM *Box + Dice* established themselves in 2005 and has over the years using technology to intergrate an autonomous platform to gain the 4th market share of CRM in Australia. 
+
+https://www.boxdice.com/about 
 
 ## Results
 
@@ -207,6 +217,29 @@ In 2021 PTG introduces *Eagle Software* a cloud based CRM platform integrating f
 ## Recommendations
 
 <span style="color: grey">* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+PTG's largest profitable revenue stream is its CRM platform, however they have yet to cover all spectriums to an industry leading standard. In the financial year of 2020 PTG had an Annual recurring revenue of $12.4 million. Since PTG is a high revenue earning company they are able to invest a portion of gross profit in development or aqusition of proptech companies. To maintain the companies existing platform, it would be best practice to select potential proptech companies that have the following;
+- have a signficant customer base, that ties in with PTG existing customers
+- clear profitability path
+- well established in their market, or hav epotential to be
+- management is structured and effective
+- can clearly outline a framework to integrate to PTG lacking areas
+
+![Proptech opportunity Landscape](Images/PTGLandscape.PNG)
+
+Marketing growth
+PTG has esatblished a steady 40% of the Australian New Zealand CRM Makret share beining 3,465 out of roughly 12,200 residential real estate agencies. Commercial agencies has well over 18,000 offices. PTG would benefit from a larger market by integrating similar services, such as 
+- automating the dudeligence of selling commercial property
+- audio recording of notes during showing
+- import property date, or view saple properties in the same market
+- update client or property date anywhere
+
+In United Kingdom there is approximate 21,500 offices that could utilise PTG's existing CRM and PM software. PTG could like previously target marketing campign to large real estate franchise, thereby simultaneouly signing large numbers of agencies. 
+
+As of 2021 there are 154,431 using the basic free property investment platform, out of this only 1,037 are paying cutomers. These are strong leads that have already trusted PTG enough to use its software. Inorder to capitalise on this survey could be preofromed of non paying customers in exchange for temporary access to or unlock one or two premium services. THis information can then be analysed to perfom target adds or innovate new services, inorder to gain more paying customers.
+
+The above recommendations are inline with existing proven streams of revenue, being Average REvenue Per Agency (ARPA). In 2019 ARPA in ANZ was $197, by September 2021 ARPA increase dto $236. This was inline with the merger of Investar and VaultRE, integration egalysoftware and rello along with hundreads of add-ons by PTG or third party developers. This in all contributed to clients fredom when customizing the CRM for their agency.   
+
 
 *<span style="color: grey"> Why do you think that offering this product or service would benefit the company?
 
