@@ -1,21 +1,11 @@
 # In The Begining
 
-Proptech like Fintech is relatively new, despite being intergrated in the Austalian real estate market for over 20 year, back in 1997 the revolutionary Customer Relationship Mangement (CRM) software *MyDesktop* was launched by Adam Campbell & Scott Wolff. This was the begining of Proptech Group (PTG.ASX), as the name suggest it is a group of property technology companies in one eco-system. 
+Proptech like Fintech is relatively new, despite being intergrated in the Austalian real estate market for over 20 year, back in 1997 the revolutionary Customer Relationship Mangement *(CRM)* software MyDesktop was launched by Adam Campbell & Scott Wolff. This was the begining of Proptech Group *(PTG.ASX)*, as the name suggest it is a group of property technology companies in one eco-system. 
 
-*MyDesktop* was acquistioned by Domain Holdings Austalia Limited (ASX:DHG) in 2010, In the same year "Real Estate Investar luanches property investment platform, and Rentfind Inspector launched"[^1]. These three brands later listed under Real Estate Investar (ASX:REV) in 2015. 
-Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD (ASX:RECRM) 2nd generation CRM in 2017. In 2020 REV merge with RECRM formed Proptech Group (ASX:PTG)[^2]
+MyDesktop was acquistioned by Domain Holdings Austalia Limited *(ASX:DHG)* in 2010, In the same year "Real Estate Investar luanches property investment platform, and Rentfind Inspector launched"[^1]. These three brands later listed under Real Estate Investar *(ASX:REV)* in 2015. 
+Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD *(ASX:RECRM)* 2nd generation CRM in 2017. In 2020 REV merge with RECRM formed PTG[^2]
 
-
-<span style="color: grey"> Who are the founders of the company?
-
-  Mydesktop was cofounded and developed by Adam Campbell and Scott Wolff, Later aquistioned by Fairfax Digital in 2010 lunching Real Estate Investar. In 2020 Investar merges with Real Estate CRM Pty Ltd (RECRM) to be relisted on Australian Security exchange as PropTech Group  
-
-  [Nicholson Ryan](https://www.nrlawyers.com.au/nicholson-ryan-acts-for-proptech-group-on-its-successful-10-6-million-capital-raising-and-asx-listing/)
-
-<span style="color: grey">* How did the idea for the company (or project) come about?
-
- Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech Group's mission is to 
-
+asdf Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech Group's mission is to 
  *"help agents through technology, streamline, optimise and where possible automate the selling and renting of realestate. Our goal is to brng all our innovative products under one roof bringing the best of the industry together in one ecosystem"*
 
 Inorder to predicate the sucess of agencies, PTG has four main values:
@@ -235,4 +225,6 @@ Be sure to cite your sources in an addendum at the end of the report. List all w
 You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
 
 
-[^1]: 
+[^1]: https://proptechgroup.io/about/
+
+[^2]: https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
