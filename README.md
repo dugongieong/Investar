@@ -3,31 +3,72 @@
 Proptech like Fintech is relatively new, despite being intergrated in the Austalian real estate market for over 20 year, back in 1997 the revolutionary Customer Relationship Mangement *(CRM)* software MyDesktop was launched by Adam Campbell & Scott Wolff. This was the begining of Proptech Group *(PTG.ASX)*, as the name suggest it is a group of property technology companies in one eco-system. 
 
 MyDesktop was acquistioned by Domain Holdings Austalia Limited *(ASX:DHG)* in 2010, In the same year "Real Estate Investar luanches property investment platform, and Rentfind Inspector launched"[^1]. These three brands later listed under Real Estate Investar *(ASX:REV)* in 2015. 
-Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD *(ASX:RECRM)* 2nd generation CRM in 2017. In 2020 REV merge with RECRM formed PTG[^2]
+Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD *(ASX:RECRM)* 2nd generation CRM with Project MAnagement *(PM)* platform in 2017. In 2020 REV merge with RECRM formed PTG[^2]
 
-asdf Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech Group's mission is to 
- *"help agents through technology, streamline, optimise and where possible automate the selling and renting of realestate. Our goal is to brng all our innovative products under one roof bringing the best of the industry together in one ecosystem"*
+Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech Group's mission is to 
 
-Inorder to predicate the sucess of agencies, PTG has four main values:
-1. To have a pioneering spirt
-2. Lead positive change 
-3. ALways have people first. Technology to improve the efficiency and success of an agency, not vise versa 
-4. To be envisioned as Real estate industry champion, having technology that evolves around real estate  
+ >*"help agents through technology, streamline, optimise and where possible automate the selling and renting of realestate. Our goal is to brng all our innovative products under one roof bringing the best of the industry together in one ecosystem"*[^3]
 
-[What is PTG?](https://proptechgroup.io/video-what-is-the-proptech-group/)
+ Inorder to predicate the sucess of agencies, PTG has four main values:[^4]
+| Pioneering spirit | People First | Industry Champions | Leading Positive Change |
+| ----------|---------|------|----|
+| Our eyes are on the future. We’re driven to be the best, so we can make a real difference. | A return to what makes our industry great. We work to create a better experience for agents and customers. | We’re at our best when we partner with property professionals. We’re invested in the whole ecosystem. | In consultation with the industry, we’re working together to improving efficiencies, workflows and processes.
 
-<span style="color: grey">* How is the company funded? How much funding have they received?
+Being real estate core drvien PTG focuses on the cost/efficency of the process when selling or renting of properties. This includes the property management of rental properties. PTG primaryily focuses its Software as a Service (SaaS) to real estate Agents Offices and tenants. Specifically the following clasification:
 
-PTG charges feesSince the first Customer Relationship management (CRM) software *MyDesktop*,  PTG has charged fees for the use of software. 
+1. **CRM** focused around Business to business (B2B) is to add efficinecy to real estate offices during the selling phase. Listing management, advertising, conveyancing,  trust accounting to sales accounting
 
-PTG has always been a subscription-based software operating service. These fees are brokendown to the following  
+2. **PM** focused around Busines to Consumer (B2C) easy to buy sell and rent in Austalia, New Zealand and the United Kingdom; property management fees, valuations, legal and taxation services, property inspections, Insurance, utilities, repairs  & maintenance
 
-| Revenue Source                                                  | B2B/REal eState Agency Products                                                                                                                                                                                                                                                         | B2C/ Property Tools                                                                                                   |
-|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+PTG has always been a subscription-based software operating service. These fees are brokendown to the following;  
+
+| Revenue Source | B2B/REal eState Agency Products | B2C/ Property Tools|
+|----------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) | calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
 One off fees | Charged to agencies for training, consulting and some customised development of the platform, usually at the franchise group level | |
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
+
+---
+
+
+
+# Mortgage / Real Estate Domain
+
+Since 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in MyDesktop, with more; advanced start up technology during the development phase. Having better technical and infrastracture technology / design. New competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seemed very attractive to the established MyDesktop users. The population was becoming more and more tech savy, while the patients grew thinner. The costmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.  
+
+https://www.proptechnow.com.au/2020/02/is-mydesktop-a-sinking-ship/
+
+At certain periods housing boom in Australia drew more media attention than technology advancment. In 2021 December quarter, the total value of residential dwellings in Austalia was $9,901.6 billion, from $9,388.9 billion in september of same year. It is more shocking to see 5 years ago December 2016 total value of dewllings in Australia was $6,441.2 billion.
+
+![Australia CRM Softwarlue of dwelling stocke](Images/Total%20value%20of%20dwelling%20stock%2C%20Australia.png)
+
+![Australia CRM Softwarlue of dwelling stocke](Images/Mean%20dwelling%20price%2C%20states%20and%20territories%2C%20December%20quarter%202021.png)
+
+https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+
+ In addition to price per dwelling increased, Australia has sold 598,000 hosue and unit in the year ending August 2021. This is a 31% increase from a decade average and 24% increase from a twenty decade average.
+
+ ![Annual number of dwelling sales, Australia](Images/Annual%20number%20of%20dwelling%20sales%20Australia.jpg)
+
+ https://www.corelogic.com.au/news/housing-turnover-reaches-highest-level-nearly-12-years
+
+ The Real Estate market was evidently growing both in market capital and market acceptance. More people are willing to buy property for a higher than record price. For real estate agents to earn more commision, efficieny was the key. Popularity for an autonomising mundane task through CRM and PM system grew amongst real estate offices over the years. However, the systems needed to be more fluid and integrating differnet agenecies requirements inorder to run selling a property (CRM): 
+
+- automising leads, optimising AI and machine learning to perform progressive profiling. Matching of buyers with agents, by data such as investment interest/timeframe to upto date market and suitable agent
+- live notification of offers; once vendors and agents are in the system, machine learning is able to automatically track their progression within the cycle. This contact segmentation empowers agents and vendors with up-to-date information
+- Contact scoring automation, using JSOn script in Swagger, CRM is able to assign a point system to users action, such as requesting for an apprasial/ loan investigation. the more action is trigged the system will identify the user as a hot seller, automising leads
+- Portal pushing, through API integration, a listing just needs to be uploaded onto the system inorder to synchronise across all linked real estate portals  
+- Single data entry, simply enter information about clients into CRM once, automised to enter relevant information accross integrated third party add ons through open API
+
+The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, functioality, the best in AI, open API-first, algorithms, data infrastructure, code base, online processes and other information technology. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
+
+https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf pg84
+
+ 
+<span style="color: grey">* How is the company funded? How much funding have they received?
+
+
 
 Segmented PRo-Forma FY20 Revenues 
 
@@ -47,18 +88,7 @@ EBITDA % | 30% | 7% | - | 21%
 
 ## Business Activities:
 
-<span style="color: grey">* What specific financial problem is the company or project trying to solve? 
 
-Beening real estate core drvien PTG focuses on the cost/efficency of the process when selling or renting of properties. This includes the property management of rental properties.  
-
-<span style="color: grey">* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-Proptech like Fintech is relatively new to the market, despite being intergrated in the real estate market for over 20 years during the dotCom boom. PTG primaryily focuses its Software as a Service (SaaS)
-to real estate Agents Offices and tenants. Specifically the following clasification:
-
-1. Business to business (B2B) is to add efficinecy to real estate offices during the selling phase. Listing management, advertising, conveyancing,  trust accounting to sales accounting
-
-2. Busines to Consumer (B2C) easy to buy sell and rent in Austalia, New Zealand and the United Kingdom; property management fees, valuations, legal and taxation services, property inspections, Insurance, utilities, repairs  & maintenance
 
 As the revenue is generated per agency we can simply look at the total number of agencies that use CRM and PM and gague the leading perfomers.
 
@@ -112,35 +142,6 @@ The co-developers of *MyDesktop* and *VaultRE* were able to seamlessly integrate
 
 <span style="color: grey">* What have been the major trends and innovations of this domain over the last 5-10 years?
 
-Since the first CRM system *MyDesktop* developed in 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in *MyDesktop*, more advanced start up technology that *MyDesktop* didn't have access to during the development phase. Having better technical and infrastracture design made competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seem very attractive to the established *MyDesktop* users. The population was becoming more and more tech savy, while the patients grew thinner. The costmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.  
-
-https://www.proptechnow.com.au/2020/02/is-mydesktop-a-sinking-ship/
-
-At certain periods housing boom in Australia drew more media attention than technology advancment. In 2021 December quarter, the total value of residential dwellings in Austalia was $9,901.6 billion, from $9,388.9 billion in september of same year. It is more shocking to see 5 years ago December 2016 total value of dewllings in Australia was $6,441.2 billion.
-
-![Australia CRM Softwarlue of dwelling stocke](Images/Total%20value%20of%20dwelling%20stock%2C%20Australia.png)
-
-![Australia CRM Softwarlue of dwelling stocke](Images/Mean%20dwelling%20price%2C%20states%20and%20territories%2C%20December%20quarter%202021.png)
-
-https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
-
- In addition to price per dwelling increased, Australia has sold 598,000 hosue and unit in the year ending August 2021. This is a 31% increase from a decade average and 24% increase from a twenty decade average.
-
- ![Annual number of dwelling sales, Australia](Images/Annual%20number%20of%20dwelling%20sales%20Australia.jpg)
-
- https://www.corelogic.com.au/news/housing-turnover-reaches-highest-level-nearly-12-years
-
- The Real Estate market was evidently growing both in market capital and market acceptance. More people are willing to buy property for a higher than record price. For real estate agents to earn more commision, efficieny was the key. Popularity for an autonomising mundane task through CRM and PM system grew amongst real estate offices over the years. However, the systems needed to be more fluid and integrating differnet agenecies requirements inorder to run selling a property (CRM): 
-
-- automising leads, optimising AI and machine learning to perform progressive profiling. Matching of buyers with agents, by data such as investment interest/timeframe to upto date market and suitable agent
-- live notification of offers; once vendors and agents are in the system, machine learning is able to automatically track their progression within the cycle. This contact segmentation empowers agents and vendors with up-to-date information
-- Contact scoring automation, using JSOn script in Swagger, CRM is able to assign a point system to users action, such as requesting for an apprasial/ loan investigation. the more action is trigged the system will identify the user as a hot seller, automising leads
-- Portal pushing, through API integration, a listing just needs to be uploaded onto the system inorder to synchronise across all linked real estate portals  
-- Single data entry, simply enter information about clients into CRM once, automised to enter relevant information accross integrated third party add ons through open API
-
-The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, functioality, the best in AI, open API-first, algorithms, data infrastructure, code base, online processes and other information technology. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
-
-https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf pg84
 
 
 <span style="color: grey">* What are the other major companies in this domain?
@@ -228,3 +229,7 @@ You learned some technical aspects of FinTech this week, including how to set up
 [^1]: https://proptechgroup.io/about/
 
 [^2]: https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
+
+[^3]: https://proptechgroup.io/video-what-is-the-proptech-group/
+
+[^4]: https://proptechgroup.io/about/
