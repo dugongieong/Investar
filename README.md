@@ -139,13 +139,57 @@ The main advantage PTG has over its competitors is they have the industries best
 
 <span style="color: grey">* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+The co-developers of *MyDesktop* and *VaultRE* were able to seamlessly integrate advance workflow automation, the best in AI, open API-first approach in conjunction with swagger
+
 ## Landscape:
 
 <span style="color: grey">* What domain of the financial industry is the company in?
 
+Mortgage/Real Estate
+
 <span style="color: grey">* What have been the major trends and innovations of this domain over the last 5-10 years?
 
+Since the first CRM system *MyDesktop* developed in 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in *MyDesktop*, more advanced start up technology that *MyDesktop* didn't have access to during the development phase. Having better technical and infrastracture design made competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seem very attractive to the established *MyDesktop* users. The population was becoming more and more tech savy, while the patients grew thinner. The costmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.  
+
+https://www.proptechnow.com.au/2020/02/is-mydesktop-a-sinking-ship/
+
+At certain periods housing boom in Australia drew more media attention than technology advancment. In 2021 December quarter, the total value of residential dwellings in Austalia was $9,901.6 billion, from $9,388.9 billion in september of same year. It is more shocking to see 5 years ago December 2016 total value of dewllings in Australia was $6,441.2 billion.
+
+![Australia CRM Softwarlue of dwelling stocke](Images/Total%20value%20of%20dwelling%20stock%2C%20Australia.png)
+
+![Australia CRM Softwarlue of dwelling stocke](Images/Mean%20dwelling%20price%2C%20states%20and%20territories%2C%20December%20quarter%202021.png)
+
+https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+
+ In addition to price per dwelling increased, Australia has sold 598,000 hosue and unit in the year ending August 2021. This is a 31% increase from a decade average and 24% increase from a twenty decade average.
+
+ ![Annual number of dwelling sales, Australia](Images/Annual%20number%20of%20dwelling%20sales%20Australia.jpg)
+
+ https://www.corelogic.com.au/news/housing-turnover-reaches-highest-level-nearly-12-years
+
+ The Real Estate market was evidently growing both in market capital and market acceptance. More people are willing to buy property for a higher than record price. For real estate agents to earn more commision, efficieny was the key. Popularity for an autonomising mundane task through CRM and PM system grew amongst real estate offices over the years. However, the systems needed to be more fluid and integrating differnet agenecies requirements inorder to run selling a property (CRM): 
+
+- automising leads, optimising AI and machine learning to perform progressive profiling. Matching of buyers with agents, by data such as investment interest/timeframe to upto date market and suitable agent
+- live notification of offers; once vendors and agents are in the system, machine learning is able to automatically track their progression within the cycle. This contact segmentation empowers agents and vendors with up-to-date information
+- Contact scoring automation, using JSOn script in Swagger, CRM is able to assign a point system to users action, such as requesting for an apprasial/ loan investigation. the more action is trigged the system will identify the user as a hot seller, automising leads
+- Portal pushing, through API integration, a listing just needs to be uploaded onto the system inorder to synchronise across all linked real estate portals  
+- Single data entry, simply enter information about clients into CRM once, automised to enter relevant information accross integrated third party add ons through open API
+
+The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, the best in AI, open API-first. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
+
+
+
+
+
 <span style="color: grey">* What are the other major companies in this domain?
+
+Agentbox holds the second largest CRM market share in Australia, based off the top 100 agents in Australia over 60% uses Agentbox, this is a 20% increase from 2019. Agentbox also boost a cloud based CRM and PM software that integrates with partners to manage vendors through each phase of the selling and renting of property. Agentbox is the market leadin mobile solution and industry leading data management, this SRM is umatched for ease of use, speed and depth of functionality. in 2020 Accel-KKR a technology based investment firm with 10 billion in capital commitments, has annonced a "strategic expanson and acquisition strategy in the Australian and New Zeland proptech market with the goal of doubling in size within two year."
+
+https://agentbox.com.au/agentbox-announces-aus-nz-proptech-acquisition-strategy/
+
+Rex is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece. 
+
+in 1992 the first property management software *Console* was realsed in Australia, over 28 years of market experience 
 
 ## Results
 
