@@ -12,7 +12,9 @@ Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech
  Inorder to predicate the sucess of agencies, PTG has four main values:[^4]
 | Pioneering spirit | People First | Industry Champions | Leading Positive Change |
 | ----------|---------|------|----|
-| Our eyes are on the future. We’re driven to be the best, so we can make a real difference. | A return to what makes our industry great. We work to create a better experience for agents and customers. | We’re at our best when we partner with property professionals. We’re invested in the whole ecosystem. | In consultation with the industry, we’re working together to improving efficiencies, workflows and processes.
+| Our eyes are on the future. We’re driven to be the best, so we can make a real difference. | A return to what makes our industry great. We work to create a better experience for agents and customers. | We’re at our best when we partner with property professionals. We’re invested in the whole ecosystem. | In consultation with the industry, we’re working together to improving efficiencies, workflows and processes.|
+|
+|}|
 
 Being real estate core drvien PTG focuses on the cost/efficency of the process when selling or renting of properties. This includes the property management of rental properties. PTG primaryily focuses its Software as a Service (SaaS) to real estate Agents Offices and tenants. Specifically the following clasification:
 
@@ -24,14 +26,43 @@ PTG has always been a subscription-based software operating service. These fees 
 
 | Revenue Source | B2B/REal eState Agency Products | B2C/ Property Tools|
 |----------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Subscrition 90% of Revenuses. Average Revenue Per Agency (ARPA) | calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
+| Subscrition Average Revenue Per Agency (ARPA) | calculated as total revenue generated for the previous 12 months divided by total number of paying office subscribers at the end of the period (then divided by 12 to get an average monthly view). Over time ARPA is increased through additional product features and price increases | Monthly fee to use the platform - ranging from $99 per month for the basic package to $248pm for the advanced package |
 One off fees | Charged to agencies for training, consulting and some customised development of the platform, usually at the franchise group level | |
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
+|
 
 ---
 
+As the revenue is generated per agency we can simply look at the total number of agencies that use CRM and PM and gague the leading perfomers.
 
+| country | Real Estate Agencies| Indvidual agencies | Market Size |
+| --------|---------------------|--------------------|-------------|
+| Australia | 11,000 | 35,000 | ANZ $117 million in 2019
+| NZ | 1,200 | 14,000| ANZ $117 million in 2019
+UK | 25,000 | 21,200 | $185 million in 2019
+|
+|
+
+| Brand                 | SaaS     | Offices Served (Estimate) | Comments                                |
+|-----------------------|----------|---------------------------|-----------------------------------------|
+| MyDesktop/Vault Group | CRM & PM | 2,800 AU, 380 NZ, 251 UK  | ANZ 41,000 individual users             |
+| AgentBOx              | CRM & PM | 2,000                     | Funded $21.8 million by AcelKKR in 2018 |
+Box + Dice | CRM | 1,000 | ANZ 14,000 active users |
+Console | PM | 3,000 |$20 million revenue in 2019 |
+REI Master | PM | 1,300|
+Rex Software | CRM | 1,300 ANZ, 200 UK | 7,500 individual users\Rockend |
+Rockend Technology | PM | 3,500| $37 millionrevenue in 2019|
+|
+|
+
+Prospectus pg 78
+
+In 2019, it was estimated in Australia alone there was a software market at $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
+
+![Australia CRM Software, 2019 Market Share](Images/CRM%20Australia%20market.PNG)
+
+*2020 Frost & Sullivan  Market Report*pg58
 
 # Mortgage / Real Estate Domain
 
@@ -90,32 +121,7 @@ EBITDA % | 30% | 7% | - | 21%
 
 
 
-As the revenue is generated per agency we can simply look at the total number of agencies that use CRM and PM and gague the leading perfomers.
 
-| country | Real Estate Agencies| Indvidual agencies | Market Size |
-| --------|---------------------|--------------------|-------------|
-| Australia | 11,000 | 35,000 | ANZ $117 million in 2019
-| NZ | 1,200 | 14,000| ANZ $117 million in 2019
-UK | 25,000 | 21,200 | $185 million in 2019
-
-
-| Brand                 | SaaS     | Offices Served (Estimate) | Comments                                |
-|-----------------------|----------|---------------------------|-----------------------------------------|
-| MyDesktop/Vault Group | CRM & PM | 2,800 AU, 380 NZ, 251 UK  | ANZ 41,000 individual users             |
-| AgentBOx              | CRM & PM | 2,000                     | Funded $21.8 million by AcelKKR in 2018 |
-Box + Dice | CRM | 1,000 | ANZ 14,000 active users |
-Console | PM | 3,000 |$20 million revenue in 2019 |
-REI Master | PM | 1,300|
-Rex Software | CRM | 1,300 ANZ, 200 UK | 7,500 individual users\Rockend |
-Rockend Technology | PM | 3,500| $37 millionrevenue in 2019
-
-Prospectus pg 78
-
-In 2019, it was estimated in Australia alone there was a software market at $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
-
-![Australia CRM Software, 2019 Market Share](Images/CRM%20Australia%20market.PNG)
-
-*2020 Frost & Sullivan  Market Report*pg58
 
 
 <span style="color: grey">* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
