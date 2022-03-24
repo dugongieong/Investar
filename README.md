@@ -1,4 +1,4 @@
-# In The Begining
+# **In The Begining**
 
 Proptech like Fintech is relatively new, despite being intergrated in the Austalian real estate market for over 20 year, back in 1997 the revolutionary Customer Relationship Mangement *(CRM)* software MyDesktop was launched by Adam Campbell & Scott Wolff. This was the begining of Proptech Group *(PTG.ASX)*, as the name suggest it is a group of property technology companies in one eco-system. 
 
@@ -19,8 +19,16 @@ Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech
 Table 1.0 *PTG Four Main Value*[^4]
 
 ---
+![Proptech Structure](Images/Proptech%20Structure.PNG)
+Figure 1.1 *Corporate Structure of Proptech Group*[^5i]
 
 ---
+![Proptech](Images/Proptech%20Timeline.PNG) 
+Figure 1.2 *Timeline of Proptech Group*[^6i]
+
+---
+## **Governing Metrics** 
+
 Being real estate core drvien PTG focuses on the cost/efficency of the process when selling or renting of properties. This includes the property management of rental properties. PTG primaryily focuses its Software as a Service (SaaS) to real estate Agents Offices and tenants. Specifically the following clasification:
 
 1. **CRM** focused around Business to business (B2B) is to add efficinecy to real estate offices during the selling phase. Listing management, advertising, conveyancing,  trust accounting to sales accounting
@@ -39,7 +47,7 @@ Referral/commision fees | Third products offered to agencies on a referral or co
 Table 1.1 *Revenue Source* [^5]
 
 ---
----
+
 As the revenue is generated per agency we can simply look at the total number of agencies that use CRM and PM and gague the leading perfomers.
 
 | Country | Real Estate Agencies| Indvidual agencies | Market Size |
@@ -51,7 +59,7 @@ As the revenue is generated per agency we can simply look at the total number of
 Table 1.2 *Market Size, Real Estate Office* [^6]
 
 ---
----
+
 | Brand                 | SaaS     | Offices Served (Estimate) | Comments                                |
 |-----------------------|----------|---------------------------|-----------------------------------------|
 | MyDesktop/Vault Group (Pior PTG) | CRM & PM | 2,800 AU, 380 NZ, 251 UK | ANZ 41,000 individual users | 
@@ -65,11 +73,10 @@ Table 1.2 *Market Size, Real Estate Office* [^6]
 Table 1.3 *2019 Market Share Proprtech, CRM & PM* [^7]
 
 ---
----
-
-
 
 In 2019, it was estimated in Australia alone there was a real estate software market of $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
+
+**2019 Australia CRM Market Share**
 
 ![Australia CRM Software, 2019 Market Share](Images/CRM%20Australia%20market.PNG)
 
@@ -77,68 +84,55 @@ Graph 1.4 *2019 Market Share Proptech, CRM & PM* [^8]
 
 ---
 ---
----
-# Mortgage / Real Estate Domain
 
-Since 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in MyDesktop, with more; advanced start up technology during the development phase. Having better technical and infrastracture technology / design. New competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seemed very attractive to the established MyDesktop users. The population was becoming more and more tech savy, while the patients grew thinner. The costmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.  
+# **Mortgage / Real Estate Domain**
 
-https://www.proptechnow.com.au/2020/02/is-mydesktop-a-sinking-ship/
+Since 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in MyDesktop, with more; advanced start up technology during the development phase. Having better technical and infrastracture technology / design. New competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seemed very attractive to the established MyDesktop users. The population was becoming more and more tech savy, while their patients grew thinner. The custmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.[^9]
 
+## **The Attraction**
 At certain periods housing boom in Australia drew more media attention than technology advancment. In 2021 December quarter, the total value of residential dwellings in Austalia was $9,901.6 billion, from $9,388.9 billion in september of same year. It is more shocking to see 5 years ago December 2016 total value of dewllings in Australia was $6,441.2 billion.
 
+**Market Value**
+
 ![Australia CRM Softwarlue of dwelling stocke](Images/Total%20value%20of%20dwelling%20stock%2C%20Australia.png)
+Figure 2.0 *Total Value of Dwelling Stock, Australia* [^10]
+
+---
+
+**Average Dwelling Price**
 
 ![Australia CRM Softwarlue of dwelling stocke](Images/Mean%20dwelling%20price%2C%20states%20and%20territories%2C%20December%20quarter%202021.png)
+FIgure 2.1 *Mean Dwelling price, statesand territories, December quarter 2021*[^11]
 
-https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+---
 
  In addition to price per dwelling increased, Australia has sold 598,000 hosue and unit in the year ending August 2021. This is a 31% increase from a decade average and 24% increase from a twenty decade average.
 
- ![Annual number of dwelling sales, Australia](Images/Annual%20number%20of%20dwelling%20sales%20Australia.jpg)
+**Sold Properties in Australia**
 
- https://www.corelogic.com.au/news/housing-turnover-reaches-highest-level-nearly-12-years
+ ![Annual number of dwelling sales, Australia](Images/Annual%20number%20of%20dwelling%20sales%20Australia.jpg)
+ Figure 2.2 *Annual number of dwelling sales, Australia* [^12]
+
+---
 
  The Real Estate market was evidently growing both in market capital and market acceptance. More people are willing to buy property for a higher than record price. For real estate agents to earn more commision, efficieny was the key. Popularity for an autonomising mundane task through CRM and PM system grew amongst real estate offices over the years. However, the systems needed to be more fluid and integrating differnet agenecies requirements inorder to run selling a property (CRM): 
 
-- automising leads, optimising AI and machine learning to perform progressive profiling. Matching of buyers with agents, by data such as investment interest/timeframe to upto date market and suitable agent
-- live notification of offers; once vendors and agents are in the system, machine learning is able to automatically track their progression within the cycle. This contact segmentation empowers agents and vendors with up-to-date information
+- Automising leads, optimising AI and machine learning to perform progressive profiling. Matching of buyers with agents, by data such as investment interest/timeframe to upto date market and suitable agent
+- Live notification of offers; once vendors and agents are in the system, machine learning is able to automatically track their progression within the cycle. This contact segmentation empowers agents and vendors with up-to-date information
 - Contact scoring automation, using JSOn script in Swagger, CRM is able to assign a point system to users action, such as requesting for an apprasial/ loan investigation. the more action is trigged the system will identify the user as a hot seller, automising leads
 - Portal pushing, through API integration, a listing just needs to be uploaded onto the system inorder to synchronise across all linked real estate portals  
 - Single data entry, simply enter information about clients into CRM once, automised to enter relevant information accross integrated third party add ons through open API
 
-The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, functioality, the best in AI, open API-first, algorithms, data infrastructure, code base, online processes and other information technology. Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few.
+The co-developers of *MyDesktop* and *VaultRE* were able to understand the evolving need of agents to stay on top of the expanding market. By seamlessly integrating advance workflow automation, functioality, the best in AI, open API-first, algorithms, data infrastructure, code base, online processes and other information technology.[^13] Proptech Group developed a more advanced CRM system *eagleSoftware*. Through this software, fintech brands Covini, FLipay and BC invest has integrated with *eagleSoftware* to launch Rello, a new payment platform. With Rello PTG has revolutionised the payment method for all real estate transactions. Payment options include the recen ttren buy now pay later, commision advance, payment plans to name a few. 
 
-https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf pg84
+---
+---
 
+
+
+# **ANZ Market Dominance**
  
-<span style="color: grey">* How is the company funded? How much funding have they received?
-
-
-
-Segmented PRo-Forma FY20 Revenues 
-
-|FY20 Pro-Forma | B2B | B2C | Corporate | PropTech Group |
-|---------------|-----|-----|-----------|----------------|
-|SaaS Revenue | $8,742,477 | $1,006,496 | - | $9,748,973
-Other operating revenue | $1,006,148 | $32,185 | - | $1,038,333
-Total Revenue | $9,748,625 | $1,038,681 | - | $10,787,306
-COS | ($873,111) | ($230,308) | - | ($1,103,419) 
-| Gross Profit | $8,875,514 | $808,373 | - | $9,683,887
-|GP% | 91% | 78% | - | 90%
-EBITDA | $2,946,365 | $76,391 | ($774,783) | $2,247,973
-EBITDA % | 30% | 7% | - | 21%
-
-
-[Fnarena](https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8)
-
-## Business Activities:
-
-
-
-
-
-
-<span style="color: grey">* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+## **Business Activities**
 
 Having the ownership of the core agency software piece of both servers CRM and PM allows PTG to add third party products either ones that PTG develops or external integration along the value chain, since dec 2020 add on tools increased from 300 to over 700 add on tools. This allows subcribers to manage a range of vendors with one system. Increasing the market share will increase the add ons through deep API integration, leading to increase ARPA.
 
@@ -151,53 +145,62 @@ The main advantage PTG has over its competitors is they have the industries best
  - Joe Hanna, held various senior management & technology roles at Fairfax Digital. Joe was an Executive Director of both REV and RECRM. Managing Director and Group CEO 
  - Micheal Fiorenza, with over 14 years international experience in finance & accounting. He is the CFO of Real EstateInvestar (REV.ASX), and previous CFO of the VC fund CAV Investment Group. Group Cheil Financial Officer   
 
- 
+ In 2019, it was estimated in Australia alone there was a software market at $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
 
-<span style="color: grey">* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+By October 2020 PTG introduces *Eagle Software* a cloud based CRM platform integrating far more vendors and offerering more services on the same system. This lead to an increase in market share to 41% 
 
-The co-developers of *MyDesktop* and *VaultRE* were able to seamlessly integrate advance workflow automation, the best in AI, open API-first approach in conjunction with swagger
+**2020 Australia CRM Market Share** 
 
-## Landscape:
+![Australia CRM Software, 2019 Market Share](Images/2020%20CRM%20Australia%20Market.PNG)
+
+Figure 3.0 *LArgest Real Estate CRM Customer Base* [^14]
+
+---
+
+**Proptech 2020 Finacial Revenues** 
+
+|FY20 Pro-Forma | B2B | B2C | Corporate | PropTech Group |
+|---------------|-----|-----|-----------|----------------|
+|SaaS Revenue | $8,742,477 | $1,006,496 | - | $9,748,973
+Other operating revenue | $1,006,148 | $32,185 | - | $1,038,333
+Total Revenue | $9,748,625 | $1,038,681 | - | $10,787,306
+COS | ($873,111) | ($230,308) | - | ($1,103,419) 
+| Gross Profit | $8,875,514 | $808,373 | - | $9,683,887
+|GP% | 91% | 78% | - | 90%
+EBITDA | $2,946,365 | $76,391 | ($774,783) | $2,247,973
+EBITDA % | 30% | 7% | - | 21%
+
+Table 3.1 *Segmented Pro-Forma FY20 Revenues* [^15]
+
+---
+
+## **Competitors**
+
+**Agentbox** holds the second largest CRM market share in Australia, based off the top 100 agents in Australia over 60% uses Agentbox, this is a 20% increase from 2019. Agentbox also boost a cloud based CRM and PM software that integrates with partners to manage vendors through each phase of the selling and renting of property. Agentbox is the market leadin mobile solution and industry leading data management, this SRM is umatched for ease of use, speed and depth of functionality. in 2020 Accel-KKR a technology based investment firm with 10 billion in capital commitments, has annonced a 
+>"strategic expanson and acquisition strategy in the Australian and New Zeland proptech market with the goal of doubling in size within two year." [^16]
 
 
-<span style="color: grey">* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+**Rex** is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece. [^17]
 
 
 
-<span style="color: grey">* What are the other major companies in this domain?
-
-Agentbox holds the second largest CRM market share in Australia, based off the top 100 agents in Australia over 60% uses Agentbox, this is a 20% increase from 2019. Agentbox also boost a cloud based CRM and PM software that integrates with partners to manage vendors through each phase of the selling and renting of property. Agentbox is the market leadin mobile solution and industry leading data management, this SRM is umatched for ease of use, speed and depth of functionality. in 2020 Accel-KKR a technology based investment firm with 10 billion in capital commitments, has annonced a "strategic expanson and acquisition strategy in the Australian and New Zeland proptech market with the goal of doubling in size within two year."
-
-https://agentbox.com.au/agentbox-announces-aus-nz-proptech-acquisition-strategy/
-
-Rex is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece.
-
-https://www.rexsoftware.com/articles/introducing-rex-zapier-integration-2
-
-MRI software founded in 1971, based in CLeveland, Ohio, has strived to creat flexible game-changing solutions. This global real estate technology expanded to Australia and New Zealand in 1995. In 2014 Commercial Property Excutive (CPR) awarded *Box + DiceMRI Software* two catagories within the event, Australias Tops in Technology Awards, specific qualities:
+**MRI software** founded in 1971, based in CLeveland, Ohio, has strived to creat flexible game-changing solutions. This global real estate technology expanded to Australia and New Zealand in 1995. In 2014 Commercial Property Excutive (CPR) awarded *Box + DiceMRI Software* two catagories within the event, Australias Tops in Technology Awards, specific qualities:[^18]
 - "Best Features/ Functionality"
 - Greatest Ease of Use/Implementation
 - Best Pricing/Value
 
-https://www.mrisoftware.com/au/about/
+In 2021 MRI Software invested further on our shores by aquistioing Palace, Whoson LOcation, and Box + Dice. The Austrlaian based CRM *Box + Dice* established themselves in 2005 and has over the years using technology to intergrate an autonomous platform to gain the 4th market share of CRM in Australia. [^19]
 
-In 2021 *MRI Software* invested further on our shores by aquistioing Palace, Whoson LOcation, and Box + Dice. The Austrlaian based CRM *Box + Dice* established themselves in 2005 and has over the years using technology to intergrate an autonomous platform to gain the 4th market share of CRM in Australia. 
 
-https://www.boxdice.com/about 
 
 ## Results
 
 <span style="color: grey">* What has been the business impact of this company so far?
 
-<span style="color: grey">* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-<span style="color: grey">* How is your company performing relative to competitors in the same domain?
 
-In 2019, it was estimated in Australia alone there was a software market at $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
 
-In 2021 PTG introduces *Eagle Software* a cloud based CRM platform integrating far more vendors and offerering more services on the same system. This lead to an increase in market share to 41% 
-
-![Australia CRM Software, 2019 Market Share](Images/2020%20CRM%20Australia%20Market.PNG)
 ## Recommendations
 
 <span style="color: grey">* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
@@ -254,10 +257,36 @@ You learned some technical aspects of FinTech this week, including how to set up
 
 [^4]: *Proptech Group Website About Me page*, https://proptechgroup.io/about/
 
-[^5]: *PropTech Group Prosppectus, page 54*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+[^5]: *PropTech Group Prospectus, page 54*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
 
 [^6]: *Frost & Sullivan, page 9*, https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
 
-[^7]: *PropTech Group Prosppectus, page 78*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+[^7]: PropTech Group Prosppectus, *page 78*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
 
 [^8]: *Frost & Sullivan, page 58*, https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
+
+[^9]: *Is My Desktop a Sinking Ship?* https://www.proptechnow.com.au/2020/02/is-mydesktop-a-sinking-ship/
+
+[^10]: Residential Property Price Indexs: Eight Capital Cities, *"Total Value of Dwelling Stock"* https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+
+[^11]: Residential Property Price Indexs: Eight Capital Cities, *Mean dwelling price, states and territries, December quarter 2021*  https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+
+[^12]: Housing turnover reaches the highest level in nearly 12 years, *Annual Number of Dwelling sales, Australia*  https://www.corelogic.com.au/news/housing-turnover-reaches-highest-level-nearly-12-years
+
+[^13]: PropTech Group Prosppectus, *page 84*,https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf 
+
+[^14]: Proptech Group: ANnual General Meeting 2021, *Slide 10*, https://proptechgroup.io/wp-content/uploads/2021/12/2021-AGM-Presentation.pdf
+
+[^15]: PropTech Group Prosppectus, *"Table 4.3 Segmented Pro-Forma FY20 Revernues"; page 78*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+
+[^16]: AGENT BLOG, *"Agentbox announces AUS/NZ proptech acquisition strategy"; Sydney, AUS — December 2, 2020* https://agentbox.com.au/agentbox-announces-aus-nz-proptech-acquisition-strategy/
+
+[^17]: REX; Articles, *"Introduction Rex + Zapier Integration", March 2021* https://www.rexsoftware.com/articles/introducing-rex-zapier-integration-2
+
+[^18]: MRI Real Estate Software; *"About MRI Software"* https://www.mrisoftware.com/au/about/
+
+[^19]: Box + Dice; *"About"* https://www.boxdice.com/about 
+
+[^5i]: PropTech Group Prospectus, *"Corporate Structure of Proptech Group", page 44*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+
+[^6i]: PropTech Group Prospectus, *"Figure 4.1 Timeline of Proptech Group" page 68*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
