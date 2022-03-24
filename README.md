@@ -20,10 +20,12 @@ Table 1.0 *PTG Four Main Value*[^4]
 
 ---
 ![Proptech Structure](Images/Proptech%20Structure.PNG)
+
 Figure 1.1 *Corporate Structure of Proptech Group*[^5i]
 
 ---
 ![Proptech](Images/Proptech%20Timeline.PNG) 
+
 Figure 1.2 *Timeline of Proptech Group*[^6i]
 
 ---
@@ -44,7 +46,7 @@ One off fees | Charged to agencies for training, consulting and some customised 
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
 
-Table 1.1 *Revenue Source* [^5]
+Table 1.3 *Revenue Source* [^5]
 
 ---
 
@@ -56,7 +58,7 @@ As the revenue is generated per agency we can simply look at the total number of
 | NZ | 1,200 | 14,000| ANZ $117 million in 2019 |
 | UK | 25,000 | 21,200 | $185 million in 2019
 
-Table 1.2 *Market Size, Real Estate Office* [^6]
+Table 1.4 *Market Size, Real Estate Office* [^6]
 
 ---
 
@@ -70,7 +72,7 @@ Table 1.2 *Market Size, Real Estate Office* [^6]
 |Rex Software | CRM | 1,300 ANZ, 200 UK | 7,500 individual users\Rockend |
 | Rockend Technology | PM | 3,500| $37  millionrevenue in 2019|
 
-Table 1.3 *2019 Market Share Proprtech, CRM & PM* [^7]
+Table 1.5 *2019 Market Share Proprtech, CRM & PM* [^7]
 
 ---
 
@@ -80,7 +82,7 @@ In 2019, it was estimated in Australia alone there was a real estate software ma
 
 ![Australia CRM Software, 2019 Market Share](Images/CRM%20Australia%20market.PNG)
 
-Graph 1.4 *2019 Market Share Proptech, CRM & PM* [^8] 
+Graph 1.6 *2019 Market Share Proptech, CRM & PM* [^8] 
 
 ---
 ---
@@ -174,16 +176,27 @@ Table 3.1 *Segmented Pro-Forma FY20 Revenues* [^15]
 
 ---
 
+![PTG 2022 current figures](Images/Current%20Figures%20Proptech%20Group.jpeg)
+
+Figure 3.2 *2022 live Statistics* [^16i] 
+
+---
+
 ## **Competitors**
 
 **Agentbox** holds the second largest CRM market share in Australia, based off the top 100 agents in Australia over 60% uses Agentbox, this is a 20% increase from 2019. Agentbox also boost a cloud based CRM and PM software that integrates with partners to manage vendors through each phase of the selling and renting of property. Agentbox is the market leadin mobile solution and industry leading data management, this SRM is umatched for ease of use, speed and depth of functionality. in 2020 Accel-KKR a technology based investment firm with 10 billion in capital commitments, has annonced a 
 >"strategic expanson and acquisition strategy in the Australian and New Zeland proptech market with the goal of doubling in size within two year." [^16]
 
 
-
 **Rex** is the thrid largest market share in the CMR software sector. Like its stronger compitior Rex focuses on automation of mundane tasks to effiecntly drive real estate agents in the selling propery. In 2021 the launch of Zapier allows users to integrate over 3,000 apps to rex CRM system. to name a few dropbox, facebook Lead Ads, Mailchimp, slack etc. This arguably gives rela estate more freedom when choosing their prefered autonomise preferrenece. [^17]
 
+---
 
+![REX 2022 current figures](Images/REX%20Current%20Numbers.PNG)
+
+Figure 3.3 *2022 live Statistics* [^17i] 
+
+---
 
 **MRI software** founded in 1971, based in CLeveland, Ohio, has strived to creat flexible game-changing solutions. This global real estate technology expanded to Australia and New Zealand in 1995. In 2014 Commercial Property Excutive (CPR) awarded *Box + DiceMRI Software* two catagories within the event, Australias Tops in Technology Awards, specific qualities:[^18]
 - "Best Features/ Functionality"
@@ -192,18 +205,16 @@ Table 3.1 *Segmented Pro-Forma FY20 Revenues* [^15]
 
 In 2021 MRI Software invested further on our shores by aquistioing Palace, Whoson LOcation, and Box + Dice. The Austrlaian based CRM *Box + Dice* established themselves in 2005 and has over the years using technology to intergrate an autonomous platform to gain the 4th market share of CRM in Australia. [^19]
 
+---
 
+![Box + Dice 2022 current figures](Images/BoxDice%20Current%20Numbers.PNG)
 
-## Results
+Figure 3.4 *2022 live Statistics* [^19i] 
 
-<span style="color: grey">* What has been the business impact of this company so far?
+---
+---
 
-
-
-
-## Recommendations
-
-<span style="color: grey">* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+## **Recommendations**
 
 PTG's largest profitable revenue stream is its CRM platform, however they have yet to cover all spectriums to an industry leading standard. In the financial year of 2020 PTG had an Annual recurring revenue of $12.4 million. Since PTG is a high revenue earning company they are able to invest a portion of gross profit in development or aqusition of proptech companies. To maintain the companies existing platform, it would be best practice to select potential proptech companies that have the following;
 - have a signficant customer base, that ties in with PTG existing customers
@@ -212,9 +223,15 @@ PTG's largest profitable revenue stream is its CRM platform, however they have y
 - management is structured and effective
 - can clearly outline a framework to integrate to PTG lacking areas
 
+---
+
 ![Proptech opportunity Landscape](Images/PTGLandscape.PNG)
 
-Marketing growth
+Figure 4.0 *The Proptech Opportunity Landscape* [^25]
+
+---
+
+### **Marketing growth**
 PTG has esatblished a steady 40% of the Australian New Zealand CRM Makret share beining 3,465 out of roughly 12,200 residential real estate agencies. Commercial agencies has well over 18,000 offices. PTG would benefit from a larger market by integrating similar services, such as 
 - automating the dudeligence of selling commercial property
 - audio recording of notes during showing
@@ -224,29 +241,10 @@ PTG has esatblished a steady 40% of the Australian New Zealand CRM Makret share 
 In United Kingdom there is approximate 21,500 offices that could utilise PTG's existing CRM and PM software. PTG could like previously target marketing campign to large real estate franchise, thereby simultaneouly signing large numbers of agencies. 
 
 
-As of 2021 there are 154,431 using the basic free property investment platform, out of this only 1,037 are paying cutomers. These are strong leads that have already trusted PTG enough to use its software. Inorder to capitalise on this survey could be preofromed of non paying customers in exchange for temporary access to or unlock one or two premium services. THis information can then be analysed to perfom target adds or innovate new services, inorder to gain more paying customers.
+As of 2021 there are 154,431 customers using the basic free property investment platform, out of this only 1,037 are paying cutomers. These are strong leads that have already trusted PTG enough to use its software. Inorder to capitalise on this survey could be preofromed of non paying customers in exchange for temporary access to or unlock one or two premium services. THis information can then be analysed to perfom target adds or innovate new services, inorder to gain more paying customers.
 
 The above recommendations are inline with existing proven streams of revenue, being Average REvenue Per Agency (ARPA). In 2019 ARPA in ANZ was $197, by September 2021 ARPA increase dto $236. This was inline with the merger of Investar and VaultRE, integration egalysoftware and rello along with hundreads of add-ons by PTG or third party developers. This in all contributed to clients fredom when customizing the CRM for their agency.   
 
-
-*<span style="color: grey"> Why do you think that offering this product or service would benefit the company?
-
-<span style="color: grey">* What technologies would this additional product or service utilize?
-
-*<span style="color: grey"> Why are these technologies appropriate for your solution?
-
-
-
-
-### 4. Write the case study
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-
-### 5. Upload your case study to your git repository
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
 
 
 [^1]: *Proptech Group Website About Me page*, https://proptechgroup.io/about/
@@ -290,3 +288,11 @@ You learned some technical aspects of FinTech this week, including how to set up
 [^5i]: PropTech Group Prospectus, *"Corporate Structure of Proptech Group", page 44*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
 
 [^6i]: PropTech Group Prospectus, *"Figure 4.1 Timeline of Proptech Group" page 68*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+
+[^16i]: Proptech Group; *Home Page* https://proptechgroup.io/?utm_term=proptech%20group&utm_campaign=PropTech%20Group%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=7792876160&hsa_cam=14879255002&hsa_grp=128546588575&hsa_ad=550323579489&hsa_src=g&hsa_tgt=kwd-1032947099667&hsa_kw=proptech%20group&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwiuuRBhBvEiwAFXKaNGN2KdyPG6RIhIBI-H4fwwLy93RxD2b7-tSNViOaCjHZVSlbiFPj1xoC64cQAvD_BwE
+
+[^17i]: Rex; *About Page* https://www.rexsoftware.com/about-us
+
+[^19i]: Box + Dice; *About Page* https://www.boxdice.com/about
+
+[^25]: PropTech Group Prospectus, *"Figure 4.14 The Proptech opportunity landscape" page 82*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
