@@ -7,15 +7,20 @@ Adam Campbell & Scott Wolff set up VaultRE for Real Estate CRM PTY LTD *(ASX:REC
 
 Bill nikolouzakis Proptech Group Chief Operating Officer (COO) explains Proptech Group's mission is to 
 
+---
  >*"help agents through technology, streamline, optimise and where possible automate the selling and renting of realestate. Our goal is to brng all our innovative products under one roof bringing the best of the industry together in one ecosystem"*[^3]
+ ---
 
- Inorder to predicate the sucess of agencies, PTG has four main values:[^4]
+ 
 | Pioneering spirit | People First | Industry Champions | Leading Positive Change |
 | ----------|---------|------|----|
 | Our eyes are on the future. We’re driven to be the best, so we can make a real difference. | A return to what makes our industry great. We work to create a better experience for agents and customers. | We’re at our best when we partner with property professionals. We’re invested in the whole ecosystem. | In consultation with the industry, we’re working together to improving efficiencies, workflows and processes.|
-|
-|}|
 
+Table 1.0 *PTG Four Main Value*[^4]
+
+---
+
+---
 Being real estate core drvien PTG focuses on the cost/efficency of the process when selling or renting of properties. This includes the property management of rental properties. PTG primaryily focuses its Software as a Service (SaaS) to real estate Agents Offices and tenants. Specifically the following clasification:
 
 1. **CRM** focused around Business to business (B2B) is to add efficinecy to real estate offices during the selling phase. Listing management, advertising, conveyancing,  trust accounting to sales accounting
@@ -30,40 +35,49 @@ PTG has always been a subscription-based software operating service. These fees 
 One off fees | Charged to agencies for training, consulting and some customised development of the platform, usually at the franchise group level | |
 Pay as you go user fees | Add on products sucahas SMS charged on a pay as you go basis | |
 Referral/commision fees | Third products offered to agencies on a referral or commission sharing basis
-|
+
+Table 1.1 *Revenue Source* [^5]
 
 ---
-
+---
 As the revenue is generated per agency we can simply look at the total number of agencies that use CRM and PM and gague the leading perfomers.
 
-| country | Real Estate Agencies| Indvidual agencies | Market Size |
+| Country | Real Estate Agencies| Indvidual agencies | Market Size |
 | --------|---------------------|--------------------|-------------|
-| Australia | 11,000 | 35,000 | ANZ $117 million in 2019
-| NZ | 1,200 | 14,000| ANZ $117 million in 2019
-UK | 25,000 | 21,200 | $185 million in 2019
-|
-|
+| Australia | 11,000 | 35,000 | ANZ $117 million in 2019|
+| NZ | 1,200 | 14,000| ANZ $117 million in 2019 |
+| UK | 25,000 | 21,200 | $185 million in 2019
 
+Table 1.2 *Market Size, Real Estate Office* [^6]
+
+---
+---
 | Brand                 | SaaS     | Offices Served (Estimate) | Comments                                |
 |-----------------------|----------|---------------------------|-----------------------------------------|
-| MyDesktop/Vault Group | CRM & PM | 2,800 AU, 380 NZ, 251 UK  | ANZ 41,000 individual users             |
-| AgentBOx              | CRM & PM | 2,000                     | Funded $21.8 million by AcelKKR in 2018 |
-Box + Dice | CRM | 1,000 | ANZ 14,000 active users |
-Console | PM | 3,000 |$20 million revenue in 2019 |
-REI Master | PM | 1,300|
-Rex Software | CRM | 1,300 ANZ, 200 UK | 7,500 individual users\Rockend |
-Rockend Technology | PM | 3,500| $37 millionrevenue in 2019|
-|
-|
+| MyDesktop/Vault Group (Pior PTG) | CRM & PM | 2,800 AU, 380 NZ, 251 UK | ANZ 41,000 individual users | 
+| AgentBOx | CRM & PM | 2,000 | Funded $21.8 million by AcelKKR in 2018 |
+| Box + Dice | CRM | 1,000 | ANZ 14,000 active users |
+| Console | PM | 3,000 |$20 million revenue in 2019 |
+| REI Master | PM | 1,300| - |
+|Rex Software | CRM | 1,300 ANZ, 200 UK | 7,500 individual users\Rockend |
+| Rockend Technology | PM | 3,500| $37  millionrevenue in 2019|
 
-Prospectus pg 78
+Table 1.3 *2019 Market Share Proprtech, CRM & PM* [^7]
 
-In 2019, it was estimated in Australia alone there was a software market at $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
+---
+---
+
+
+
+In 2019, it was estimated in Australia alone there was a real estate software market of $101 million, PM generated $65 million and CRM comprmising $36 million. PTG holds the largest australian market share of 25%.
 
 ![Australia CRM Software, 2019 Market Share](Images/CRM%20Australia%20market.PNG)
 
-*2020 Frost & Sullivan  Market Report*pg58
+Graph 1.4 *2019 Market Share Proptech, CRM & PM* [^8] 
 
+---
+---
+---
 # Mortgage / Real Estate Domain
 
 Since 1997 during the Dot com boom, technology has exponital become more capable and widely used by the general public. During the past 10 years new competitors have established themselves with the knowledge of fualts in MyDesktop, with more; advanced start up technology during the development phase. Having better technical and infrastracture technology / design. New competitors like Agentbox, Box + Dice, REX, Zenu, VaultRE (ex MyDesktop Developers) seemed very attractive to the established MyDesktop users. The population was becoming more and more tech savy, while the patients grew thinner. The costmer service alone amongest the competitors far exceeded the arrogant and notoriously week long trobleshooting many *MyDeskteop* users experienced.  
@@ -232,10 +246,18 @@ Be sure to cite your sources in an addendum at the end of the report. List all w
 You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
 
 
-[^1]: https://proptechgroup.io/about/
+[^1]: *Proptech Group Website About Me page*, https://proptechgroup.io/about/
 
-[^2]: https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
+[^2]: *Frost & Sullivan, page 8*, https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
 
-[^3]: https://proptechgroup.io/video-what-is-the-proptech-group/
+[^3]: *Proptech Group, Home Page*, https://proptechgroup.io/video-what-is-the-proptech-group/
 
-[^4]: https://proptechgroup.io/about/
+[^4]: *Proptech Group Website About Me page*, https://proptechgroup.io/about/
+
+[^5]: *PropTech Group Prosppectus, page 54*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+
+[^6]: *Frost & Sullivan, page 9*, https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
+
+[^7]: *PropTech Group Prosppectus, page 78*, https://f.hubspotusercontent10.net/hubfs/435410/PropTechGroup/Proptech_Prospectus_Final_compressed%20(1).pdf
+
+[^8]: *Frost & Sullivan, page 58*, https://www.fnarena.com/downloadfile.php?p=w&n=0AEE9E35-E5DC-75F2-97AB34BB6A441C3D#page8 
